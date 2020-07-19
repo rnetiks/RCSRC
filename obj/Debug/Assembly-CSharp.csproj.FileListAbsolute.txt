@@ -1,0 +1,27 @@
+C:\Users\Aquilas\Desktop\Assembly-CSharp_Source\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Aquilas\Desktop\Assembly-CSharp_Source\bin\Debug\Assembly-CSharp.dll
+C:\Users\Aquilas\Desktop\Assembly-CSharp_Source\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Aquilas\Desktop\Assembly-CSharp_Source\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Aquilas\Desktop\Assembly-CSharp_Source\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\Aquilas\Desktop\Assembly-CSharp_Source\bin\Debug\Photon3Unity3D.dll
+C:\Users\Aquilas\Desktop\Assembly-CSharp_Source\bin\Debug\UnityEngine.dll
+C:\Users\Aquilas\Desktop\Assembly-CSharp_Source\bin\Debug\UnityEngine.UI.dll
+C:\Users\Aquilas\Desktop\Assembly-CSharp_Source\bin\Debug\Boo.Lang.dll
+C:\Users\Aquilas\Desktop\Assembly-CSharp_Source\bin\Debug\UnityScript.Lang.dll
+C:\Users\Aquilas\Desktop\Assembly-CSharp_Source\bin\Debug\Mono.Security.dll
+C:\Users\Aquilas\Desktop\Assembly-CSharp_Source\obj\Debug\Assembly-CSharp.dll
+C:\Users\Aquilas\Desktop\Assembly-CSharp_Source\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Aquilas\Desktop\SnK v01042015\Snk_Data\Managed\Source_RC\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Aquilas\Desktop\SnK v01042015\Snk_Data\Managed\Source_RC\obj\Debug\Assembly-CSharp.dll
+C:\Users\Aquilas\Desktop\SnK v01042015\Snk_Data\Managed\Source_RC\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Aquilas\Desktop\SnK v01042015\Snk_Data\Managed\Assembly-CSharp.dll
+C:\Users\Aquilas\Desktop\SnK v01042015\Snk_Data\Managed\Assembly-CSharp.pdb
+C:\Users\Leonardo\Desktop\RC-project1\Source_RC_MT\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\RC-project1\Source_RC_MT\obj\Debug\Assembly-CSharp.dll
+C:\Users\Leonardo\Desktop\RC-project1\Source_RC_MT\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Leonardo\Desktop\RC-project1\Assembly-CSharp.dll
+C:\Users\Leonardo\Desktop\RC-project1\Assembly-CSharp.pdb
+D:\RC-Project(1)\RC-Project\Source_RC\obj\Debug\Assembly-CSharp.dll
+D:\RC-Project(1)\RC-Project\Source_RC\obj\Debug\Assembly-CSharp.pdb
+D:\RC-Project(1)\RC-Project\Assembly-CSharp.dll
+D:\RC-Project(1)\RC-Project\Assembly-CSharp.pdb
