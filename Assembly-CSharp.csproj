@@ -114,7 +114,7 @@
     </Reference>
     <Reference Include="System.Core">
       <Name>System.Core</Name>
-      <HintPath>..\SnK v01042015\Snk_Data\Managed\System.Core.dll</HintPath>
+      <HintPath>References\System.Core.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
       <Name>UnityEngine</Name>
